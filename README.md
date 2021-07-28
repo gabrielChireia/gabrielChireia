@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gabrielChireia
 - 👀 I’m interested in Backend Developing
-- 🌱 I’m currently learning C# Application on ASP.NET servers
 - 📫 How to reach me: gchireia@gmail.com
 
 <!---
