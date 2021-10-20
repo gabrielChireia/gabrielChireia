@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @gabrielChireia
-- 👀 I’m interested in Backend Developing
+- 👋 Hi, I’m @gabrielChireia.
+- 23 yo
+- from Cuiabá, Mato Grosso, Brazil
+- bachelor degree in Computer Science from UFMT
+- Backend Java Developer, 2+ years of working experience, and also database enthusiast.
 - 📫 How to reach me: gchireia@gmail.com
-
-<!---
-gabrielChireia/gabrielChireia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
