@@ -2,5 +2,5 @@
 - 24 yo
 - from Cuiabá, Mato Grosso, Brazil
 - bachelor degree in Computer Science from UFMT
-- Backend Java Developer, 3+ years of working experience, and also database enthusiast.
+- Backend Java Developer, 3+ years of working experience.
 - 📫 How to reach me: gchireia@gmail.com
