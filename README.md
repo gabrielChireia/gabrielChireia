@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrielChireia.
-- 24 yo
+- 25 yo
 - from Cuiabá, Mato Grosso, Brazil
 - bachelor degree in Computer Science from UFMT
-- Backend Java Developer, 3+ years of working experience.
+- Backend Java Developer, 4+ years of working experience.
 - 📫 How to reach me: gchireia@gmail.com
